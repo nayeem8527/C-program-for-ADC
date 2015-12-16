@@ -4,3 +4,5 @@ In the code i have specified a specific range for LDR and Thermistor through whi
 and it will also be seen on the terminal
 
 Code can be easily activated by makefile
+
+Code is made for Arduino Duemilanove (for other arduinos please make required changes)
